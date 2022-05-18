@@ -1,0 +1,20 @@
+11 Austrália       dolár         1 AUD   22.441 20050308  46
+11 Cyprus          libra         1 CYP   64.537 20050308  46
+11 Èeská republika koruna        1 CZK    1.272 20050308  46
+11 Dánsko          koruna        1 DKK    5.048 20050308  46
+11 EMU             euro          1 EUR   37.570 20050308  46
+11 Estónsko        koruna        1 EEK    2.401 20050308  46
+11 Japonsko        jen         100 JPY   27.089 20050308  46
+11 Kanada          dolár         1 CAD   23.090 20050308  46
+11 Litva           litas         1 LTL   10.881 20050308  46
+11 Lotyšsko        lats          1 LVL   53.961 20050308  46
+11 Maïarsko        forint      100 HUF   15.534 20050308  46
+11 Malta           líra          1 MTL   87.082 20050308  46
+11 Nórsko          koruna        1 NOK    4.571 20050308  46
+11 Po¾sko          zloty         1 PLN    9.688 20050308  46
+11 Slovinsko       toliar      100 SIT   15.677 20050308  46
+11 Švajèiarsko     frank         1 CHF   24.270 20050308  46
+11 Švédsko         koruna        1 SEK    4.156 20050308  46
+11 USA             dolár         1 USD   28.435 20050308  46
+11 V. Británia     lstg          1 GBP   54.472 20050308  46
+11 MMF-ZPC-SDR     SDR           1 XDR   43.460 20050308  46

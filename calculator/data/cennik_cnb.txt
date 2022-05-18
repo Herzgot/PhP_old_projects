@@ -1,0 +1,33 @@
+03.03.2005  #44
+zeme|mena|mnozstvi|kod|kurz
+Australie|dolar|1|AUD|17,639
+Bulharsko|lev|1|BGN|15,122
+Chorvatsko|kuna|1|HRK|3,972
+Dansko|koruna|1|DKK|3,974
+EMU|euro|1|EUR|29,580
+Estonsko|koruna|1|EEK|1,891
+Hongkong|dolar|1|HKD|2,885
+Island|koruna|100|ISK|37,037
+Japonsko|jen|100|JPY|21,459
+Jihoafricka rep.|rand|1|ZAR|3,802
+Jizni Korea|won|100|KRW|2,236
+Kanada|dolar|1|CAD|18,107
+Kypr|libra|1|CYP|50,806
+Litva|litas|1|LTL|8,567
+Lotyssko|lat|1|LVL|42,479
+MMF|SDR|1|XDR|34,311
+Madarsko|forint|100|HUF|12,212
+Malta|lira|1|MTL|68,624
+Norsko|koruna|1|NOK|3,598
+Novy Zeland|dolar|1|NZD|16,384
+Polsko|zloty|1|PLN|7,577
+Rumunsko|leu|10000|ROL|8,097
+Rusko|rubl|100|RUB|81,140
+Singapur|dolar|1|SGD|13,833
+Slovensko|koruna|100|SKK|78,060
+Slovinsko|tolar|100|SIT|12,339
+Svedsko|koruna|1|SEK|3,270
+Svycarsko|frank|1|CHF|19,129
+Turecko|nova lira|1|TRY|17,649
+USA|dolar|1|USD|22,502
+Velka Britanie|libra|1|GBP|43,002
